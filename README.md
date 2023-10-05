@@ -4,10 +4,10 @@
 <!-- table two columns -->
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-   <img src="https://avatars.githubusercontent.com/u/71171748?v=4" alt="image" style="width:200px; height:auto; border-radius: 10%; " >
+  <div style=" width: 30%">
+   <img src="https://avatars.githubusercontent.com/u/71171748?v=4" alt="image" style=" border-radius: 10%; " >
   </div>
-  <div style="flex: 2; padding-left: 20px;">
+  <div style=" padding-left: 20px; width:60%">
 
   Witam, nazywam się Patryk, lubię władać komputerami za pomocą ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white), ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 . Aktualnie koncentruję sie na pisaniu aplikacji webowych w szczególności interfejsów użytkownika. Chciałbym dołączyć do zespołu programistów i napisać coś ładnego i użytecznego.  
