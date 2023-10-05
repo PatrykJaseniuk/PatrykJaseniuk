@@ -1,17 +1,27 @@
 
 ## O mnie 👨‍💻  
 
-Witam, nazywam się Patryk, lubię władać komputerami za pomocą ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white), ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-. Aktualnie koncentruję sie na pisaniu aplikacji webowych w szczególności interfejsów użytkownika. Chciałbym dołączyć do zespołu programistów i napisać coś ładnego i użytecznego.  
+<!-- table two columns -->
 
-<!-- ## Dane Kontaktowe 📞
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+   <img src="https://avatars.githubusercontent.com/u/71171748?v=4" alt="image" style="width:200px; height:auto; border-radius: 10%; " >
+  </div>
+  <div style="flex: 2; padding-left: 20px;">
+
+  Witam, nazywam się Patryk, lubię władać komputerami za pomocą ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white), ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+. Aktualnie koncentruję sie na pisaniu aplikacji webowych w szczególności interfejsów użytkownika. Chciałbym dołączyć do zespołu programistów i napisać coś ładnego i użytecznego.  
+  </div>
+</div>
+
+## Dane Kontaktowe 📞
 
 - Imię i nazwisko: **Patryk Jaseniuk**
 - Lokalizacja: **Nysa, Polska**
 - E-mail: **patryk.jaseniuk@gmail.com**
 - Github: [**git**]()
 - LinkedIn: [**linkedin**]()
-- Strona internetowa: [**patrykjaseniuk.pl**]() -->
+- Strona internetowa: [**patrykjaseniuk.pl**]()
 
 ## Projekty 📁
 - [Symulator Statków żaglowych](https://patrykjaseniuk.github.io/StatkiTSDocs/) Symulator/Gra 2D napisana w TypeScript. Użytkownik za pomocą myszki zmienia parametry żagli i steru aby kontrolować statek. Symulator prezentuję esencję działania żaglowca. Można ostrzyć, odpadać, robić zwrot przez rufę, sztag, płynąć z wiatrem, a pod wiatr tylko halsować. Cały statek jest zbudowany z molekuł, które są połączone za pomocą "sprężyn".(soft body dynamics).
