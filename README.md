@@ -4,8 +4,27 @@
 . Aktualnie koncentruję sie na pisaniu aplikacji webowych w szczególności interfejsów użytkownika. Chciałbym dołączyć do zespołu programistów i napisać coś ładnego i użytecznego.  
 
 ## Projekty 📁
-- [Symulator Statków żaglowych](https://patrykjaseniuk.github.io/StatkiTSDocs/) Symulator/Gra 2D napisana w TypeScript. Użytkownik za pomocą myszki zmienia parametry żagli i steru aby kontrolować statek. Symulator prezentuję esencję działania żaglowca. Można ostrzyć, odpadać, robić zwrot przez rufę, sztag, płynąć z wiatrem, a pod wiatr tylko halsować. Cały statek jest zbudowany z molekuł, które są połączone za pomocą "sprężyn".(soft body dynamics).
-- [Strona Siłowni Parys](https://github.com/PatrykJaseniuk/ParysWeb) Strona reklamowa siłowni Parys w Nysie. 
+###  [Symulator Statków Żaglowych](https://patrykjaseniuk.github.io/StatkiTSDocs/) 
+<!-- typescript, nextjs, jest -->
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+
+Symulator/Gra 2D napisana w TypeScript. Użytkownik za pomocą myszki zmienia parametry żagli i steru aby kontrolować statek. Symulator prezentuję esencję działania żaglowca. Można ostrzyć, odpadać, robić zwrot przez rufę, sztag, płynąć z wiatrem, a pod wiatr tylko halsować. Cały statek jest zbudowany z molekuł, które są połączone za pomocą "sprężyn"(soft body dynamics).  
+
+
+
+### [Strona Siłowni Parys](https://github.com/PatrykJaseniuk/ParysWeb) 
+<!-- mantine,typescript, nextjs, react,  storybook -->
+[![Mantine](https://img.shields.io/badge/-mantine-%23FFFFFF?style=for-the-badge&logo=mantine&logoColor=black)](https://mantine.dev/)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Storybook](https://img.shields.io/badge/storybook-%23FF4785.svg?style=for-the-badge&logo=storybook&logoColor=white)
+
+
+Strona reklamowa siłowni Parys w Nysie.
 ## Umiejętności 💪  
 
 ### Języki programowania 💻 
@@ -44,7 +63,7 @@
 
 ### Języki naturalne 🌐 
 - **Angielski** - B2.
-- **Polski** - Native.
+- **Polski** - Ojczysty.
 
 ## Styl programowania 📝
 
