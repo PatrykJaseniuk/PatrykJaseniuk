@@ -1,7 +1,7 @@
 
 ## O mnie 👨‍💻  
   Witam, nazywam się Patryk, lubię władać komputerami za pomocą ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white), ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-. Aktualnie koncentruję sie na pisaniu aplikacji webowych w szczególności interfejsów użytkownika. Chciałbym dołączyć do zespołu programistów i napisać coś ładnego i użytecznego.  
+. Aktualnie koncentruję się na pisaniu aplikacji webowych w szczególności interfejsów użytkownika. Chciałbym dołączyć do zespołu programistów i napisać coś ładnego i użytecznego.  
 
 ## Projekty 📁
 ###  [Symulator Statków Żaglowych](https://patrykjaseniuk.github.io/StatkiTSDocs/) 
@@ -11,7 +11,7 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 
-Symulator/Gra 2D napisana w TypeScript. Użytkownik za pomocą myszki zmienia parametry żagli i steru aby kontrolować statek. Symulator prezentuję esencję działania żaglowca. Można ostrzyć, odpadać, robić zwrot przez rufę, sztag, płynąć z wiatrem, a pod wiatr tylko halsować. Cały statek jest zbudowany z molekuł, które są połączone za pomocą "sprężyn"(soft body dynamics).  
+Symulator/Gra 2D napisana w TypeScript. Użytkownik za pomocą myszki zmienia parametry żagli i steru aby kontrolować statek. Symulator prezentuję esencję działania żaglowca. Można ostrzyć, odpadać, robić zwrot przez rufę, sztag, płynąć z wiatrem, a pod wiatr tylko halsować. Cały statek jest zbudowany z molekuł, które są połączone za pomocą "sprężyn"(soft body dynamics).
 
 
 
@@ -36,7 +36,7 @@ Strona reklamowa siłowni Parys w Nysie.
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 - **TypeScript**  -Aktualnie mój ulubiony język programowania. Cenię w aplikacjach pisanych w TS/JS łatwość uruchomiania na wielu urządzeniach (wystarczy przeglądarka internetowa, lub node). Unikam JS ze wzgledu na brak typowania. Staram się pisać kod w stylu funkcyjnym(korzystać tylko ze stałych), ponieważ jest łatwiejszy w zrozumieniu(brak efektów ubocznych funkcji). 
-- **C/C++**  - Pierwszy język, który poznałem. Lubiłem za pomocą niego programować do czasu kiedy np. zobaczyłem jak wygodnie można posługiwać się funkcjami w TS/JS (w C++ definicja wskaźnika na funkcję jest dziwaczna). C++ daję więcej kontroli (brak garbage collector).
+- **C/C++**  - Pierwszy język, który poznałem. Lubiłem za pomocą niego programować do czasu kiedy np. zobaczyłem jak wygodnie można posługiwać się funkcjami w TS/JS (obywatele pierwszej klasy). C++ daję więcej kontroli (brak garbage collector).
 - **Java** - Drugi język który poznałem, rozwinąłem za pomocą niego koncepcję programowania obiektowego.
 - **C#** - Podobny do Javy. 
 - **Python** -Korzystałem z niego nie zbyt dużo podczas programowania Raspberry Pi. podobny do JS (brak typowania🙁, funkcje obywatelami pierwszej klasy😊), nie przypadło mi do gustu zastąpienie nawiasów klamrowych tabulacją. 
@@ -57,8 +57,8 @@ Strona reklamowa siłowni Parys w Nysie.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 
-- **Git** - Używam do kontroli wersji projektów, które piszę samodzielnie. Dal każdej nowej funkcjonalności tworzę nową gałąź i po zakończeniu pracy nad nią łączę ją z gałęzią główną. Staram się zachowywać `conventional commits`.
-- **Visual Studio Code** - Jest to moje ulubione IDE. Cenię jego plastyczność i ogromną ilość dodatków. 
+- **Git** - Używam do kontroli wersji projektów, które piszę samodzielnie. Dla każdej nowej funkcjonalności tworzę nową gałąź i po zakończeniu pracy nad nią łączę ją z gałęzią główną. Staram się nazywać commit-y zgodnie z `conventional commits`.
+- **Visual Studio Code** - Jest to moje ulubione IDE. Cenię jego prostotę i uniwersalność (ogromną ilość dodatków). 
 - **Linux** - System operacyjny o otwartym kodzie źródłowym daje znacznie większą kontrolę nad sprzętem.
 
 ### Języki naturalne 🌐 
