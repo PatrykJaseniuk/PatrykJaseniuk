@@ -164,4 +164,3 @@ const result2 = doSomethingRecursively(doSomething(0));
 const doSomethingSetTimeOut = (result) => checkCondition(result) ? setTimeout(() => doSomethingSetTimeOut(doSomething(result))) : result;
 const result3 = doSomethingSetTimeOut(doSomething(0));
 ```
-I hope this Markdown format works for you! If you have any more questions or need further information, feel free to ask.
