@@ -1,172 +1,167 @@
+## About Me 👨‍💻
+Hello, I'm Patryk, and I enjoy working with computers using ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) and ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB). Currently, I'm focusing on developing web applications, especially user interfaces. I would like to join a team of developers and create something beautiful and useful.
 
-## O mnie 👨‍💻  
-  Witam, nazywam się Patryk, lubię władać komputerami za pomocą ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white), ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-. Aktualnie koncentruję się na pisaniu aplikacji webowych w szczególności interfejsów użytkownika. Chciałbym dołączyć do zespołu programistów i napisać coś ładnego i użytecznego.  
-
-## Projekty 📁
-###  [Symulator Statków Żaglowych](https://patrykjaseniuk.github.io/StatkiTSDocs/) 
+## Projects 📁
+### [Sailing Ships Simulator](https://patrykjaseniuk.github.io/StatkiTSDocs/)
 <!-- typescript, nextjs, jest -->
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
+A 2D simulator/game written in TypeScript. Users can control a ship by adjusting sail and rudder parameters using their mouse. The simulator showcases the essence of sailing ship operation, allowing users to trim, tack, jibe, sail with the wind, and beat against it. The entire ship is constructed from molecules connected by "springs" (soft body dynamics).
 
-Symulator/Gra 2D napisana w TypeScript. Użytkownik za pomocą myszki zmienia parametry żagli i steru aby kontrolować statek. Symulator prezentuję esencje działania żaglowca. Można ostrzyć, odpadać, robić zwrot przez rufę, sztag, płynąć z wiatrem, a pod wiatr tylko halsować. Cały statek jest zbudowany z molekuł, które są połączone za pomocą "sprężyn"(soft body dynamics).
-
-
-
-### [Strona Siłowni Parys](https://github.com/PatrykJaseniuk/ParysWeb) 
-<!-- mantine,typescript, nextjs, react,  storybook -->
+### [Parys Gym Website](https://github.com/PatrykJaseniuk/ParysWeb)
+<!-- mantine, typescript, nextjs, react, storybook -->
 [![Mantine](https://img.shields.io/badge/-mantine-%23FFFFFF?style=for-the-badge&logo=mantine&logoColor=black)](https://mantine.dev/)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Storybook](https://img.shields.io/badge/storybook-%23FF4785.svg?style=for-the-badge&logo=storybook&logoColor=white)
 
+Promotional website for Parys Gym in Nysa.
 
-Strona reklamowa siłowni Parys w Nysie.
-## Umiejętności 💪  
+## Skills 💪
 
-### Języki programowania 💻 
- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+### Programming Languages 💻
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-- **TypeScript**  -Aktualnie mój ulubiony język programowania. Cenię w aplikacjach pisanych w TS/JS łatwość uruchomiania na wielu urządzeniach (wystarczy przeglądarka internetowa, lub node). Unikam JS ze wzgledu na brak typowania. Staram się pisać kod w stylu funkcyjnym(korzystać tylko ze stałych), ponieważ jest łatwiejszy w zrozumieniu(brak efektów ubocznych funkcji). 
-- **C/C++**  - Pierwszy język, który poznałem. Lubiłem za pomocą niego programować do czasu kiedy np. zobaczyłem jak wygodnie można posługiwać się funkcjami w TS/JS (obywatele pierwszej klasy). C++ daję więcej kontroli (brak garbage collector).
-- **Java** - Drugi język który poznałem, rozwinąłem za pomocą niego koncepcję programowania obiektowego.
-- **C#** - Podobny do Javy. 
-- **Python** -Korzystałem z niego nie zbyt dużo podczas programowania Raspberry Pi. podobny do JS (brak typowania🙁, funkcje obywatelami pierwszej klasy😊), nie przypadło mi do gustu zastąpienie nawiasów klamrowych tabulacją. 
-- **PHP** - nie przepadam.
+- **TypeScript** - Currently, my favorite programming language. I value the ease of running applications on various devices (just a web browser or Node). I avoid JavaScript due to the lack of typing. I aim to write code in a functional style, using constants, as it's easier to understand (no side effects in functions).
+- **C/C++** - The first language I learned. I liked it until I discovered how convenient it is to work with functions in TS/JS (first-class citizens). C++ provides more control (no garbage collector).
+- **Java** - The second language I learned, and I developed my object-oriented programming concepts with it.
+- **C#** - Similar to Java.
+- **Python** - I used it for Raspberry Pi programming. It's similar to JS (lacks typing, first-class functions), but I didn't like the use of tabulation instead of curly braces.
+- **PHP** - Not my favorite.
 
-
-### Frameworki/ biblioteki 📚
+### Frameworks/Libraries 📚
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-- **React** - Po poznaniu React, polubiłem tworzenie interfejsów użytkownika.
-- **NextJS** - Wygodny framework/narzędzie do budowania aplikacji TS+React.
-- **Jest** - Staram się pokryć jak najwięcej kodu testami.
+- **React** - After learning React, I fell in love with creating user interfaces.
+- **Next.js** - A convenient framework/tool for building TS+React applications.
+- **Jest** - I try to cover as much code as possible with tests.
 
-### Narzędzia 🛠
+### Tools 🛠
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 
-- **Git** - Używam do kontroli wersji projektów, które piszę samodzielnie. Dla każdej nowej funkcjonalności tworzę nową gałąź i po zakończeniu pracy nad nią łączę ją z gałęzią główną. Staram się nazywać commit-y zgodnie z `conventional commits`.
-- **Visual Studio Code** - Jest to moje ulubione IDE. Cenię jego prostotę i uniwersalność (ogromną ilość dodatków). 
-- **Linux** - System operacyjny o otwartym kodzie źródłowym daje znacznie większą kontrolę nad sprzętem.
+- **Git** - I use it for version control of projects I work on independently. For each new feature, I create a new branch and merge it into the main branch upon completion. I try to name commits according to `conventional commits`.
+- **Visual Studio Code** - It's my favorite IDE. I appreciate its simplicity and versatility (a vast number of extensions).
+- **Linux** - An open-source operating system that provides greater control over hardware.
 
-### Języki naturalne 🌐 
-- **Angielski** - B2.
-- **Polski** - Ojczysty.
+### Natural Languages 🌐
+- **English** - B2.
+- **Polish** - Native.
 
-## Styl programowania 📝
+## Coding Style 📝
 
-### Nazewnictwo
-Piszę długie nazwy czasami składające się z kilku słów, unikam skrótów. Przykład: `CollidingTriangle`, `FluidInteraction`
+### Naming
+I write long names, sometimes consisting of several words, and avoid abbreviations. For example: `CollidingTriangle`, `FluidInteraction`.
 
-### Czytelność kodu
-Podczas pisania kodu używam dużo stałych pośrednich zamiast wywoływania funkcji w funkcji. Jeżeli jestem w stanie nazwać jakiś fragment kodu(co on robi) wyodrębniam go do funkcji. Staram się nie komentować kodu, nazwy definiowane w kodzie(stałych, funkcji, interfejsów itd.) mają być wystarczające do zrozumienia.
-
-```typescript
-    //❌
-    const result = doSomething(doSomethingElse(doSomethingElseAgain(doSomethingAgain())));
-
-    //✅
-    const somethingAgain = doSomethingAgain();
-    const somethingElseAgain = doSomethingElseAgain(somethingAgain);
-    const somethingElse = doSomethingElse(somethingElseAgain);
-    const result = doSomething(somethingElse);
-```
-
-### Programowanie funkcyjne 
-Staram się pisać funkcyjnie tzn nie korzystać ze zmiennych danych (`let` `var`), tylko **stałych** (`const`). Takie założenie powoduje, że korzystanie z elementów języka z blokiem o odrębnej przestrzeni nazw (np. `for`, `if`, `switch case`) jest bezcelowe, ponieważ, każda nazwa tam zdefiniowana jest niedostępna poza tym blokiem. Ponadto funkcje zawsze zwracają wartość, inaczej nie maja sensu.
-#### Przykłady:
-##### blok warunkowy `if`
+### Code Readability
+While writing code, I use many intermediate constants instead of invoking functions within functions. If I can name a piece of code (what it does), I extract it into a function. I aim not to comment the code, as the names defined in the code (constants, functions, interfaces, etc.) should be self-explanatory.
 
 ```typescript
-    import {doSomething, doSomethingElse, getCondition} from 'something';
+//❌
+const result = doSomething(doSomethingElse(doSomethingElseAgain(doSomethingAgain())));
 
-    //imperatywnie:
-    let result1;
-    if(getCondition()){
-        result1 = doSomething();
-    }else{
-        result1 = doSomethingElse();
-    }
-
-    //funkcyjne:
-    const result2 = getCondition() ? doSomething() : doSomethingElse();
+//✅
+const somethingAgain = doSomethingAgain();
+const somethingElseAgain = doSomethingElseAgain(somethingAgain);
+const somethingElse = doSomethingElse(somethingElseAgain);
+const result = doSomething(somethingElse);
 ```
 
-##### blok warunkowy `switch case`
+### Functional Programming
+
+I try to write code in a functional manner, meaning I don't use mutable data (let var) but prefer constants (const). This assumption makes using language constructs with a separate namespace block (e.g., for, if, switch case) pointless because any name defined there is inaccessible outside that block. Moreover, functions always return a value, or they don't make sense.
+
+#### Examples:
+`if` statement
 
 ```typescript
-    import {doSomething1, doSomething2, doSomething3, getWariant} from 'something';
 
-    //imperatywnie:
-    let result1;
-    switch(getWariant()){
-        case 1:
-            result1 = doSomething1();
-            break;
-        case 2:
-            result1 = doSomething2();
-            break;
-        case 3:
-            result1 = doSomething3();
-            break;
-    }
+import {doSomething, doSomethingElse, getCondition} from 'something';
 
-    //funkcyjne:
-    const doSomething = {
-        1: doSomething1,
-        2: doSomething2,
-        3: doSomething3
-    }
-    const result2 = doSomething[getWariant()]();
+// Imperative:
+let result1;
+if(getCondition()){
+    result1 = doSomething();
+}else{
+    result1 = doSomethingElse();
+}
+
+// Functional:
+const result2 = getCondition() ? doSomething() : doSomethingElse();
 ```
-
-##### pętla `for`
+`switch case` statement
 
 ```typescript
-    import {getArray} from 'something';
 
-    //imperatywnie:
-    const array = getArray();
-    let result1 = [];
-    for(let i = 0; i < array.length; i++){
-        result1.push(array[i] * 2);
-    }
+import {doSomething1, doSomething2, doSomething3, getVariant} from 'something';
 
-    //funkcyjne:
-    const result2 = getArray().map((element) => element * 2);
+// Imperative:
+let result1;
+switch(getVariant()){
+    case 1:
+        result1 = doSomething1();
+        break;
+    case 2:
+        result1 = doSomething2();
+        break;
+    case 3:
+        result1 = doSomething3();
+        break;
+}
+
+// Functional:
+const doSomething = {
+    1: doSomething1,
+    2: doSomething2,
+    3: doSomething3
+}
+const result2 = doSomething[getVariant()]();
 ```
-
-##### pętla `while`
+`for` loop
 
 ```typescript
-    import {doSomething, checkCondition} from 'something';
 
-    //imeratywnie:
+import {getArray} from 'something';
 
-    let result1 = doSomething(0);
-    while(checkCondition(result1)){
-        result1 = doSomething(result1);
-    }
+// Imperative:
+const array = getArray();
+let result1 = [];
+for(let i = 0; i < array.length; i++){
+    result1.push(array[i] * 2);
+}
 
-
-    // to już fanatyzm
-    //funkcyjne1 rekurencyjnie:
-    const doSomethingRecursively = (result) => checkCondition(result) ? doSomethingRecursively(doSomething(result)) : result;
-    const result2 = doSomethingRecursively(doSomething(0));
-
-    //funkcyjne2 z wykorzystaniem setTimeout (nie blokuje wątku,nie powoduje stack overflow, wolniejsze):
-    const doSomethingSetTimeOut = (result) => checkCondition(result) ? setTimeout(() => doSomethingSetTimeOut(doSomething(result))) : result;
-    const result3 = doSomethingSetTimeOut(doSomething(0));
+// Functional:
+const result2 = getArray().map((element) => element * 2);
 ```
+`while` loop
+
+```typescript
+
+import {doSomething, checkCondition} from 'something';
+
+// Imperative:
+let result1 = doSomething(0);
+while(checkCondition(result1)){
+    result1 = doSomething(result1);
+}
+
+// Functional 1, recursively:
+const doSomethingRecursively = (result) => checkCondition(result) ? doSomethingRecursively(doSomething(result)) : result;
+const result2 = doSomethingRecursively(doSomething(0));
+
+// Functional 2, using setTimeout (non-blocking, prevents stack overflow, slower):
+const doSomethingSetTimeOut = (result) => checkCondition(result) ? setTimeout(() => doSomethingSetTimeOut(doSomething(result))) : result;
+const result3 = doSomethingSetTimeOut(doSomething(0));
+```
+I hope this Markdown format works for you! If you have any more questions or need further information, feel free to ask.
