@@ -83,8 +83,8 @@ const result = doSomething(somethingElse);
 I try to write code in a functional manner, meaning I don't use mutable data (let var) but prefer constants (const). This assumption makes using language constructs with a separate namespace block (e.g., for, if, switch case) pointless because any name defined there is inaccessible outside that block. Moreover, functions always return a value, or they don't make sense.
 
 #### Examples:
-`if` statement
 
+##### `if` statement
 ```typescript
 
 import {doSomething, doSomethingElse, getCondition} from 'something';
@@ -100,7 +100,9 @@ if(getCondition()){
 // Functional:
 const result2 = getCondition() ? doSomething() : doSomethingElse();
 ```
-`switch case` statement
+
+
+##### `switch case` statement
 
 ```typescript
 
@@ -128,7 +130,9 @@ const doSomething = {
 }
 const result2 = doSomething[getVariant()]();
 ```
-`for` loop
+
+
+##### `for` loop
 
 ```typescript
 
@@ -144,7 +148,7 @@ for(let i = 0; i < array.length; i++){
 // Functional:
 const result2 = getArray().map((element) => element * 2);
 ```
-`while` loop
+<!-- `while` loop
 
 ```typescript
 
@@ -163,4 +167,4 @@ const result2 = doSomethingRecursively(doSomething(0));
 // Functional 2, using setTimeout (non-blocking, prevents stack overflow, slower):
 const doSomethingSetTimeOut = (result) => checkCondition(result) ? setTimeout(() => doSomethingSetTimeOut(doSomething(result))) : result;
 const result3 = doSomethingSetTimeOut(doSomething(0));
-```
+``` -->

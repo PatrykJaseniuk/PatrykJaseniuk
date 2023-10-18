@@ -148,7 +148,7 @@ Staram się pisać funkcyjnie tzn nie korzystać ze zmiennych danych (`let` `var
     const result2 = getArray().map((element) => element * 2);
 ```
 
-##### pętla `while`
+<!-- ##### pętla `while`
 
 ```typescript
     import {doSomething, checkCondition} from 'something';
@@ -169,4 +169,4 @@ Staram się pisać funkcyjnie tzn nie korzystać ze zmiennych danych (`let` `var
     //funkcyjne2 z wykorzystaniem setTimeout (nie blokuje wątku,nie powoduje stack overflow, wolniejsze):
     const doSomethingSetTimeOut = (result) => checkCondition(result) ? setTimeout(() => doSomethingSetTimeOut(doSomething(result))) : result;
     const result3 = doSomethingSetTimeOut(doSomething(0));
-```
+``` -->
