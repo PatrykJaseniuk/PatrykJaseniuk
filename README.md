@@ -7,6 +7,7 @@ Hello, I'm Patryk, and I enjoy working with computers using ![TypeScript](https:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Three.js](https://img.shields.io/badge/three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
 
 A 2D simulator/game written in TypeScript. Users can control a ship by adjusting sail and rudder parameters using their mouse. The simulator showcases the essence of sailing ship operation, allowing users to trim, tack, jibe, sail with the wind, and beat against it. The entire ship is constructed from molecules connected by "springs" (soft body dynamics).
 
