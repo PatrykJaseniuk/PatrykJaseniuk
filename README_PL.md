@@ -1,6 +1,6 @@
 
 ## O mnie 👨‍💻  
-  Witam, nazywam się Patryk, lubię władać komputerami za pomocą ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white), ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  Witam, nazywam się Patryk, lubię programować komputery za pomocą ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white), ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 . Aktualnie koncentruję się na pisaniu aplikacji webowych w szczególności interfejsów użytkownika. Chciałbym dołączyć do zespołu programistów i napisać coś ładnego i użytecznego.  
 
 ## Projekty 📁
@@ -15,7 +15,7 @@ Symulator/Gra 2D napisana w TypeScript. Użytkownik za pomocą myszki zmienia pa
 
 
 
-### [Strona Siłowni Parys](https://github.com/PatrykJaseniuk/ParysWeb) 
+### [Strona Reklamowa Siłowni](https://github.com/PatrykJaseniuk/ParysWeb) 
 <!-- mantine,typescript, nextjs, react,  storybook -->
 [![Mantine](https://img.shields.io/badge/-mantine-%23FFFFFF?style=for-the-badge&logo=mantine&logoColor=black)](https://mantine.dev/)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -24,7 +24,9 @@ Symulator/Gra 2D napisana w TypeScript. Użytkownik za pomocą myszki zmienia pa
 ![Storybook](https://img.shields.io/badge/storybook-%23FF4785.svg?style=for-the-badge&logo=storybook&logoColor=white)
 
 
-Strona reklamowa siłowni Parys w Nysie.
+Statyczna, jednostronna aplikacja hostowana i budowana na GH (CI/CD) reklamująca siłownie. Wykorzystuje w niej hooki i effecty dla zapewnienia przyjemnego doświadczenia użytkownika. Aplikacja posiada takie elementy jak: rozwijany pasek górny w zależności od przewijania strony, czy możliwość wyboru motywu kolorystycznego, a od strony kodu: izolacja danych od komponentów, podział kodu na warstwy (Stratified Design), programowanie funkcyjne (immutability of data).
+
+
 ## Umiejętności 💪  
 
 ### Języki programowania 💻 
@@ -49,7 +51,7 @@ Strona reklamowa siłowni Parys w Nysie.
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 - **React** - Po poznaniu React, polubiłem tworzenie interfejsów użytkownika.
-- **NextJS** - Wygodny framework/narzędzie do budowania aplikacji TS+React.
+- **NextJS** - Wygodny framework/narzędzie, korzystam do budowania aplikacji TS+React.
 - **Jest** - Staram się pokryć jak najwięcej kodu testami.
 
 ### Narzędzia 🛠
@@ -57,7 +59,7 @@ Strona reklamowa siłowni Parys w Nysie.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 
-- **Git** - Używam do kontroli wersji projektów, które piszę samodzielnie. Dla każdej nowej funkcjonalności tworzę nową gałąź i po zakończeniu pracy nad nią łączę ją z gałęzią główną. Staram się nazywać commit-y zgodnie z `conventional commits`.
+- **Git** - Używam do kontroli wersji projektów, które piszę. Dla każdej nowej funkcjonalności tworzę nową gałąź i po zakończeniu pracy nad nią łączę ją z gałęzią główną. Staram się nazywać commit-y zgodnie z `conventional commits`.
 - **Visual Studio Code** - Jest to moje ulubione IDE. Cenię jego prostotę i uniwersalność (ogromną ilość dodatków). 
 - **Linux** - System operacyjny o otwartym kodzie źródłowym daje znacznie większą kontrolę nad sprzętem.
 
