@@ -1,7 +1,7 @@
 
 ## O mnie 👨‍💻  
-  Witam, nazywam się Patryk, lubię programować komputery za pomocą ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white), ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-. Aktualnie koncentruję się na pisaniu aplikacji webowych w szczególności interfejsów użytkownika. Chciałbym dołączyć do zespołu programistów i napisać coś ładnego i użytecznego.  
+  Lubię programować komputery za pomocą ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white), ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+. Aktualnie koncentruję się na pisaniu aplikacji webowych w szczególności interfejsów użytkownika.
 
 ## Projekty 📁
 ###  [Symulator Statków Żaglowych](https://patrykjaseniuk.github.io/StatkiTSDocs/) 

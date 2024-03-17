@@ -1,6 +1,5 @@
 ## About Me 👨‍💻
-Hello, I'm Patryk, and I enjoy working with computers using ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) and ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB). Currently, I'm focusing on developing web applications, especially user interfaces. I would like to join a team of developers and create something beautiful and useful.
-
+I enjoy working with computers using ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) and ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB). Currently, I'm focusing on developing web applications, especially user interfaces.
 ## Projects 📁
 ### [Sailing Ships Simulator](https://patrykjaseniuk.github.io/StatkiTSDocs/)
 <!-- typescript, nextjs, jest -->
@@ -35,7 +34,7 @@ Promotional website for Parys Gym in Nysa.
 - **C/C++** - The first language I learned. I liked it until I discovered how convenient it is to work with functions in TS/JS (first-class citizens). C++ provides more control (no garbage collector).
 - **Java** - The second language I learned, and I developed my object-oriented programming concepts with it.
 - **C#** - Similar to Java.
-- **Python** - I used it for Raspberry Pi programming. It's similar to JS (lacks typing, first-class functions), but I didn't like the use of tabulation instead of curly braces.
+- **Python** - I used it for Raspberry Pi and some computer vision projects. It's similar to JS (lacks typing, first-class functions), but I didn't like the use of tabulation instead of curly braces.
 - **PHP** - Not my favorite.
 
 ### Frameworks/Libraries 📚
