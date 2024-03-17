@@ -79,7 +79,7 @@ Statyczna, jednostronna aplikacja hostowana i budowana na GH (CI/CD) reklamując
 
 ## Edukacja 🎓
 PANS w Nysie kierunek Informatyka (2019-2023) (Nie oddana praca dyplomowa)
-
+<!-- 
 ## Styl programowania 📝
 
 ### Nazewnictwo
@@ -184,4 +184,4 @@ Staram się pisać funkcyjnie tzn nie korzystać ze zmiennych danych (`let` `var
     //funkcyjne2 z wykorzystaniem setTimeout (nie blokuje wątku,nie powoduje stack overflow, wolniejsze):
     const doSomethingSetTimeOut = (result) => checkCondition(result) ? setTimeout(() => doSomethingSetTimeOut(doSomething(result))) : result;
     const result3 = doSomethingSetTimeOut(doSomething(0));
-``` -->
+``` --> -->
