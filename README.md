@@ -41,19 +41,31 @@ Promotional website for Parys Gym in Nysa.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Prisma](https://img.shields.io/badge/-prisma-%232D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 - **React** - After learning React, I fell in love with creating user interfaces.
 - **Next.js** - A convenient framework/tool for building TS+React applications.
 - **Jest** - I try to cover as much code as possible with tests.
+- **Prisma** - fully typed ORM.
 
 ### Tools 🛠
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 - **Git** - I use it for version control of projects I work on independently. For each new feature, I create a new branch and merge it into the main branch upon completion. I try to name commits according to `conventional commits`.
 - **Visual Studio Code** - It's my favorite IDE. I appreciate its simplicity and versatility (a vast number of extensions).
 - **Linux** - An open-source operating system that provides greater control over hardware.
+- **Docker** - light virtual environments.
+
+
+### data bases 🗃
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-%23323330.svg?style=for-the-badge&logo=supabase&logoColor=white)
+
+- **Supabase**- actually I developing project using it as backend. Appreciate typed orm. 
+
 
 ### Natural Languages 🌐
 - **English** - B2.

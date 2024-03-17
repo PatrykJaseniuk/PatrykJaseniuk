@@ -49,23 +49,36 @@ Statyczna, jednostronna aplikacja hostowana i budowana na GH (CI/CD) reklamując
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Prisma](https://img.shields.io/badge/-prisma-%232D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 - **React** - Po poznaniu React, polubiłem tworzenie interfejsów użytkownika.
 - **NextJS** - Wygodny framework/narzędzie, korzystam do budowania aplikacji TS+React.
 - **Jest** - Staram się pokryć jak najwięcej kodu testami.
+- **Prisma** - fajny ORM z pełnym typowanie.
 
 ### Narzędzia 🛠
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 - **Git** - Używam do kontroli wersji projektów, które piszę. Dla każdej nowej funkcjonalności tworzę nową gałąź i po zakończeniu pracy nad nią łączę ją z gałęzią główną. Staram się nazywać commit-y zgodnie z `conventional commits`.
 - **Visual Studio Code** - Jest to moje ulubione IDE. Cenię jego prostotę i uniwersalność (ogromną ilość dodatków). 
 - **Linux** - System operacyjny o otwartym kodzie źródłowym daje znacznie większą kontrolę nad sprzętem.
+- **Docker** - lekkie wirtualne środowiska.
+
+### Bazy danych 🗃
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-%23323330.svg?style=for-the-badge&logo=supabase&logoColor=white)
+
+- **Supabase**- aktualne tworzę projekt korzystając z Supabase jako backendu. S udostępnia orm, który generuje typy na podstawie utworzonej bazy.
 
 ### Języki naturalne 🌐 
 - **Angielski** - B2.
 - **Polski** - Ojczysty.
+
+## Edukacja 🎓
+PANS w Nysie kierunek Informatyka (2019-2023) (Nie oddana praca dyplomowa)
 
 ## Styl programowania 📝
 
