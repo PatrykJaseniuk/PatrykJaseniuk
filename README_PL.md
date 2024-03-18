@@ -38,10 +38,10 @@ Statyczna, jednostronna aplikacja hostowana i budowana na GH (CI/CD) reklamując
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 - **TypeScript**  -Aktualnie mój ulubiony język programowania. Cenię w aplikacjach pisanych w TS/JS łatwość uruchomiania na wielu urządzeniach (wystarczy przeglądarka internetowa, lub node). Unikam JS ze wzgledu na brak typowania. Staram się pisać kod w stylu funkcyjnym(korzystać tylko ze stałych), ponieważ jest łatwiejszy w zrozumieniu(brak efektów ubocznych funkcji). 
-- **C/C++**  - Pierwszy język, który poznałem. Lubiłem za pomocą niego programować do czasu kiedy np. zobaczyłem jak wygodnie można posługiwać się funkcjami w TS/JS (obywatele pierwszej klasy). C++ daję więcej kontroli (brak garbage collector).
+- **C/C++**  - Pierwszy język, który poznałem. Ceniłem go do czasu aż odkryłem jak wygodnie można posługiwać się funkcjami w TS/JS (obywatele pierwszej klasy). Z drugiej strony C++ daję więcej kontroli (brak garbage collector).
 - **Java** - Drugi język który poznałem, rozwinąłem za pomocą niego koncepcję programowania obiektowego.
 - **C#** - Podobny do Javy. 
-- **Python** -Korzystałem z niego nie zbyt dużo podczas programowania Raspberry Pi. podobny do JS (brak typowania🙁, funkcje obywatelami pierwszej klasy😊), nie przypadło mi do gustu zastąpienie nawiasów klamrowych tabulacją. 
+- **Python** -Korzystałem z niego podczas programowania Raspberry Pi i projektów wykorzystujących przetwarzanie obrazu. podobny do JS (brak typowania🙁, funkcje obywatelami pierwszej klasy😊), nie przypadło mi do gustu zastąpienie nawiasów klamrowych tabulacją. 
 - **PHP** - nie przepadam.
 
 
@@ -62,7 +62,7 @@ Statyczna, jednostronna aplikacja hostowana i budowana na GH (CI/CD) reklamując
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-- **Git** - Używam do kontroli wersji projektów, które piszę. Dla każdej nowej funkcjonalności tworzę nową gałąź i po zakończeniu pracy nad nią łączę ją z gałęzią główną. Staram się nazywać commit-y zgodnie z `conventional commits`.
+- **Git** - Dla każdej nowej funkcjonalności tworzę nową gałąź i po zakończeniu pracy nad nią łączę ją z gałęzią główną. Staram się nazywać commit-y zgodnie z `conventional commits`.
 - **Visual Studio Code** - Jest to moje ulubione IDE. Cenię jego prostotę i uniwersalność (ogromną ilość dodatków). 
 - **Linux** - System operacyjny o otwartym kodzie źródłowym daje znacznie większą kontrolę nad sprzętem.
 - **Docker** - lekkie wirtualne środowiska.
@@ -184,4 +184,4 @@ Staram się pisać funkcyjnie tzn nie korzystać ze zmiennych danych (`let` `var
     //funkcyjne2 z wykorzystaniem setTimeout (nie blokuje wątku,nie powoduje stack overflow, wolniejsze):
     const doSomethingSetTimeOut = (result) => checkCondition(result) ? setTimeout(() => doSomethingSetTimeOut(doSomething(result))) : result;
     const result3 = doSomethingSetTimeOut(doSomething(0));
-``` --> -->
+``` --> 
