@@ -4,7 +4,7 @@
 . Aktualnie koncentruję się na pisaniu aplikacji webowych w szczególności interfejsów użytkownika.
 
 ## Projekty 📁
-###  [Symulator Statków Żaglowych](https://patrykjaseniuk.github.io/StatkiTSDocs/) 
+###  [Symulator Statków Żaglowych 🔗](https://patrykjaseniuk.github.io/StatkiTSDocs/) 
 <!-- typescript, nextjs, jest -->
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -15,7 +15,7 @@ Symulator/Gra 2D napisana w TypeScript. Użytkownik za pomocą myszki zmienia pa
 
 
 
-### [Strona Reklamowa Siłowni](https://github.com/PatrykJaseniuk/ParysWeb) 
+### [Strona Reklamowa Siłowni 🔗](https://github.com/PatrykJaseniuk/ParysWeb)  
 <!-- mantine,typescript, nextjs, react,  storybook -->
 [![Mantine](https://img.shields.io/badge/-mantine-%23FFFFFF?style=for-the-badge&logo=mantine&logoColor=black)](https://mantine.dev/)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
