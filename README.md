@@ -47,4 +47,4 @@ builds software from source: an `AGENTS.md` contract, an immutable value DAG, 23
 
 ✉️ [patryk.jaseniuk@gmail.com](mailto:patryk.jaseniuk@gmail.com) ·
 💼 [LinkedIn](https://www.linkedin.com/in/patryk-jaseniuk-929136161/) ·
-📄 [CV (PDF)](https://patrykjaseniuk.github.io/CV/Patryk_Jaseniuk_CV.pdf)
+📄 [CV (PDF)](https://patrykjaseniuk.github.io/CV/Patryk_Jaseniuk_CV_EN.pdf)
