@@ -47,4 +47,4 @@ buduje oprogramowanie ze źródeł: kontrakt `AGENTS.md`, niemutowalny DAG warto
 
 ✉️ [patryk.jaseniuk@gmail.com](mailto:patryk.jaseniuk@gmail.com) ·
 💼 [LinkedIn](https://www.linkedin.com/in/patryk-jaseniuk-929136161/) ·
-📄 [CV (PDF)](https://patrykjaseniuk.github.io/CV/Patryk_Jaseniuk_CV.pdf)
+📄 [CV (PDF)](https://patrykjaseniuk.github.io/CV/Patryk_Jaseniuk_CV_PL.pdf)
