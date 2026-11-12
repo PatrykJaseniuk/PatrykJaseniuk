@@ -7,15 +7,15 @@ with LLM agents: contracts the agent can execute, gates it cannot bypass.
 
 ## Projects
 
-**[Webapp1](https://github.com/PatrykJaseniuk/Webapp1)** — fullstack template: React + TypeScript
+**[ts-fullstack-template](https://github.com/PatrykJaseniuk/ts-fullstack-template)** — fullstack template: React + TypeScript
 on Supabase, PostgreSQL RLS as the only authorization layer, 200+ Vitest tests, Playwright E2E,
 pgTAP, a 7-job CI pipeline.
 
-**[ParysWeb2](https://github.com/PatrykJaseniuk/ParysWeb2)** — gym site + typed content model
+**[parys-web](https://github.com/PatrykJaseniuk/parys-web)** — gym site + typed content model
 (Astro 5): JSON CMS → generated typed modules, consistency gates on every build, Lighthouse
 audit. → [parys.nysa.pl](https://parys.nysa.pl)
 
-**[StatkiTS](https://github.com/PatrykJaseniuk/StatkiTS)** — 2D sailing simulator with a physics
+**[sailing-sim](https://github.com/PatrykJaseniuk/sailing-sim)** — 2D sailing simulator with a physics
 engine written by hand — no agent, no physics library: soft-body hull, wind and water forces,
 collisions, 55 Jest tests.
 
