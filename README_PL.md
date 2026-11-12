@@ -7,15 +7,15 @@ z agentami LLM — piszę kontrakty, które agent może wykonać, i bramki, któ
 
 ## Projekty
 
-**[Webapp1](https://github.com/PatrykJaseniuk/Webapp1)** — szablon fullstack: React + TypeScript
+**[ts-fullstack-template](https://github.com/PatrykJaseniuk/ts-fullstack-template)** — szablon fullstack: React + TypeScript
 na Supabase, PostgreSQL RLS jako jedyna warstwa autoryzacji, 200+ testów Vitest, E2E w Playwright,
 pgTAP, CI z 7 zadaniami.
 
-**[ParysWeb2](https://github.com/PatrykJaseniuk/ParysWeb2)** — strona siłowni + typowany model
+**[parys-web](https://github.com/PatrykJaseniuk/parys-web)** — strona siłowni + typowany model
 treści (Astro 5): CMS w JSON → generowane typowane moduły, bramki spójności przy każdym buildzie,
 audyt Lighthouse. → [parys.nysa.pl](https://parys.nysa.pl)
 
-**[StatkiTS](https://github.com/PatrykJaseniuk/StatkiTS)** — symulator żaglowca 2D z silnikiem
+**[sailing-sim](https://github.com/PatrykJaseniuk/sailing-sim)** — symulator żaglowca 2D z silnikiem
 fizyki napisanym ręcznie — bez agenta i bez biblioteki fizycznej: soft-body kadłuba, siły wiatru
 i wody, kolizje, 55 testów Jest.
 
